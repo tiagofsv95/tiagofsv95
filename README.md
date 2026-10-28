@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avatar-plot.svg" width="360" alt="My profile photo drawn as a scatter plot">
+  <img src="avatar-plot.svg" width="480" alt="My profile photo drawn as a scatter plot">
 </p>
 
 ### Hi, I'm Tiago 👋
